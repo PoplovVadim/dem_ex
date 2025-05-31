@@ -78,7 +78,6 @@ namespace dem_ex
 
         private void Form3_Load(object sender, EventArgs e)
         {
-            //LoadMarks();
             LoadDisiplineNames();
         }
 
